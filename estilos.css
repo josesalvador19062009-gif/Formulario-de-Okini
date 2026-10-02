@@ -1,33 +1,30 @@
 body {
-    background-color: #0fff99;
+    background-color: white;
     font-family: Century Gothic;
     font-size: 30;
-    color: white;
+    color: black;
 }
 
 h1{
-    color: white;
-    background-color: #1f3160;
+    color: #1f21aa;
     font-size: 70px;
     text-align: center;
 }
 h2{
-    background-color: #006400;
-    color: white;
+    color: black;
     font-weight: bolder;
     text-align: center;
 }
 h4{
     font-size: 30;
     font-weight: bold;
-    background-color: white;
+    background-color: black;
     padding: 3.5rch 2rem;
 }
 h5{
     font-size: 30;
    font-weight: bold;
    font-style: italic;
-   background-color: #001860;
    text-align: center;
 }
 p{
@@ -39,13 +36,12 @@ header {
     text-align: center;
     font-weight: bolder;
     padding: 3.5rch 2rem;
-    border-bottom: 5px solid #ffe200;
-    background-color: #652d91;
+    border-bottom: 5px solid #00a3e6;
+    background-color: whitesmoke;
 }
 
 nav a {
-color: white;
-background-color: #0f4d92;
+color: #001860;
 font-weight: bolder;
 text-align: center;
 font-size: 24;
@@ -55,7 +51,6 @@ main {
     padding: 3rem 2rem;
     max-width: 900px;
     margin: 0 auto;
-    background-color: #0068c8;
     text-transform: uppercase;
     font-size: 30;
      text-align: center;
@@ -63,8 +58,6 @@ main {
 
 br{
     font-size: 30;
-    background-color: #001860;
-    color: #ff8000;
     font-weight: bolder;
 }
 
@@ -75,22 +68,17 @@ br{
     text-transform: uppercase;
     text-align: center;
     margin-bottom: 0.25rem;
-    color: white;
-    background-color: #006400;
 }
 
 .precio {
     font-size: 30;
-    font-weight: bold;
-    color: white;
-    background-color: #ed0c08;
+    font-weight: bolder;
     }
 
 footer{
     font-family: Kristen ITC;
     text-align: center;
-    color:#1f21aa;
-    background-color: #ffe200;
+    background-color: whitesmoke;
     margin: 1 auto;
     font-weight: bolder;
     font-size: 30;
@@ -99,8 +87,7 @@ footer{
 #contador-tazas {
     font-size: 1.5 rem;
     font-weight: bolder;
-    color: white;
-    background-color: #ed0c08;
+    color: black;
     text-align: center;
 }
 
@@ -109,10 +96,11 @@ footer{
     font-weight: bolder;
     margin-top: 1rem;
     padding: 0.5rem 1.25rem;
-    background-color: #ffe200;
-    color: #1f21aa;
+    background-color: #00a3e6;
+    color: black;
     border: none;
     font-family: Century Gothic;
     font-size: 1rem;
     cursor: pointer;
 }
+
